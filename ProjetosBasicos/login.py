@@ -1,5 +1,3 @@
-from asyncore import loop
-import re
 import time
 
 #pagina de login em python basica!
